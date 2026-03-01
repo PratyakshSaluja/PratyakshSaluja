@@ -63,8 +63,8 @@
 🔹 **Backend Intern — Arogo AI**  
 → Developed healthcare backend with **40+ APIs**  
 
-🔹 **Lead Full Stack Dev — UniSphere**  
-→ Built RAG platform serving **2000+ users**  
+🔹 **Lead Web Dev — UniSphere**  
+→ Built admin/backend for university application serving **2000+ users**  
 
 ---
 
