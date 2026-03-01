@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-💡 AI Engineer Intern building production-grade automation and AI workflows  
+💡 AI Engineer building production-grade automation and AI workflows  
 🎓 B.Tech CSE @ BML Munjal University (CGPA: 8.69)  
 ⚙️ Passionate about AI systems, RAG pipelines, and scalable backend architecture  
 🏆 Multiple international hackathon winner  
