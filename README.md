@@ -16,7 +16,7 @@
 💡 AI Engineer building production-grade automation and AI workflows  
 🎓 B.Tech CSE, Data Science & AI @ BML Munjal University — Class of 2027 (CGPA: 8.69)  
 ⚙️ Passionate about agentic systems, RAG pipelines, and scalable backend architecture  
-🏆 3× hackathon winner, Runner Up at Smart India Hackathon '25 Internals  
+🏆 6× hackathon winner, Runner Up at Smart India Hackathon '25 Internals  
 🎯 President, Placement Committee — School of Engineering & Technology, BMU  
 
 ---
